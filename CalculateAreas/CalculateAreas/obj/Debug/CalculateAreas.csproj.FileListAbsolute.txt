@@ -1,0 +1,6 @@
+C:\Users\v\source\repos\CalculateAreas\CalculateAreas\obj\Debug\CalculateAreas.csprojAssemblyReference.cache
+C:\Users\v\source\repos\CalculateAreas\CalculateAreas\obj\Debug\CalculateAreas.csproj.CoreCompileInputs.cache
+C:\Users\v\source\repos\CalculateAreas\CalculateAreas\bin\Debug\CalculateAreas.dll
+C:\Users\v\source\repos\CalculateAreas\CalculateAreas\bin\Debug\CalculateAreas.pdb
+C:\Users\v\source\repos\CalculateAreas\CalculateAreas\obj\Debug\CalculateAreas.dll
+C:\Users\v\source\repos\CalculateAreas\CalculateAreas\obj\Debug\CalculateAreas.pdb
